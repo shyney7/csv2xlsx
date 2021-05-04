@@ -1,2 +1,7 @@
 CSV/
 xlsx/
+build/
+dist/
+assets/
+__pycache__/
+main.spec
