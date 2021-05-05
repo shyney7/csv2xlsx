@@ -5,3 +5,4 @@ dist/
 assets/
 __pycache__/
 main.spec
+csv2xlsx.spec

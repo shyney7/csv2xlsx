@@ -55,6 +55,8 @@ def exitApplication():
        root.destroy()
 
 root= tk.Tk()
+root.iconbitmap(r'.\assets\shyney.ico')
+root.title('csv2xlsx Tool')
 
 canvas1 = tk.Canvas(root, width = 300, height = 300, bg = 'lightsteelblue2', relief = 'raised')
 canvas1.pack()
