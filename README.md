@@ -7,6 +7,6 @@ By now it needs to be changed in the code.
 
 ### To-Do
 * Option to change delimiter
-* Optimize threading (thread runs in background when closing the GUI while convertion is running)
+* Optimize threading (thread runs in background when closing the GUI while conversion is running)
 * Rice GUI
-* Automatic resize of elements when chanhing window size
+* Automatic resize of elements when changing window size
